@@ -220,7 +220,7 @@ Now let’s compute *everything you asked for*, step by step:
 
 # ⚡️ 1. YOUR BODY’S POWER: EXACT COMPUTATIONS
 
-### Your recorded walking powers:
+### Your recorded walking powers (Mon Nov 23 - Fri Nov 28):
 
 * 124 W
 * 115 W
