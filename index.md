@@ -1148,9 +1148,9 @@ $$
 
 ## **2.2 Horsepower Conversion**
 
-[
+$$
 1 HP = 746 W
-]
+$$
 
 * **Peak:** ~2.6–3.0 HP
 * **Sustained:** 0.20 HP
@@ -1166,39 +1166,39 @@ Your mitochondrial engine is extremely well-tuned for age.
 
 Walking metabolic load (≈22% mechanical efficiency):
 
-[
+$$
 120 W → 550 W_{met}
-]
+$$
 
 Daily expenditure:
 
-[
+$$
 Total ≈ 2.8 \text{ kWh/day}
-]
+$$
 
 Equivalent to:
 
-[
+$$
 2.8 \times 860 = 2408 \text{ kcal/day}
-]
+$$
 
 ---
 
 ## **3.2 ATP Turnover**
 
-[
+$$
 E_{day} = 10.08 \times 10^6 J
-]
+$$
 
 ATP hydrolysis:
 
-[
+$$
 30.5 kJ/mol
-]
+$$
 
-[
+$$
 \text{ATP/day} ≈ 330 \text{ moles}
-]
+$$
 
 **Meaning:**
 You remake your entire **bodyweight in ATP every 24 hours**.
@@ -1209,9 +1209,9 @@ You remake your entire **bodyweight in ATP every 24 hours**.
 
 During your 140 W walks:
 
-[
+$$
 P_{heat} = \frac{120}{0.22} - 120 ≈ 430 W
-]
+$$
 
 Your skin dissipates:
 
@@ -1231,9 +1231,9 @@ Equivalent to:
 VO₂ ≈ 3.5 L/min
 Arteriovenous O₂ difference ≈ 130 ml/L
 
-[
+$$
 Q_{max} \approx 27 L/min
-]
+$$
 
 This puts you in the **trained** category.
 
@@ -1243,21 +1243,22 @@ This puts you in the **trained** category.
 
 At VO₂max:
 
-[
+$$
 VE \approx 110–140 L/min
-]
+$$
 
 Tidal volume:
 
-[
+
+$$
 2.0–2.5 L/breath
-]
+$$
 
 Breathing frequency:
 
-[
+$$
 50–60 \text{ breaths/min}
-]
+$$
 
 ---
 
@@ -1265,21 +1266,21 @@ Breathing frequency:
 
 ## **5.1 Walking Mechanical Work**
 
-[
+$$
 W/step = \frac{135 W}{120 steps/min} ≈ 1.1 J/step
-]
+$$
 
 Vertical oscillation 5 cm:
 
-[
+$$
 F ≈ 22 N \text{ (flat)}
-]
+$$
 
 On steep grades:
 
-[
+$$
 F_{peak} = 1400–1800 N
-]
+$$
 
 ---
 
@@ -1287,15 +1288,15 @@ F_{peak} = 1400–1800 N
 
 Human ideal:
 
-[
+$$
 0.20–0.23 \text{ kcal/(kg·km)}
-]
+$$
 
 Your estimated:
 
-[
+$$
 0.21 \text{ kcal/(kg·km)}
-]
+$4
 
 **You are highly efficient.**
 
@@ -1330,9 +1331,9 @@ You therefore run hotter at identical wattage.
 
 Your daily metabolic energy:
 
-[
+$$
 2.8 \text{ kWh/day} = 2 \times 10^{0.15}
-]
+$$
 
 **N = 0.15 (daily)**
 **N = –1.7 (burst power)**
