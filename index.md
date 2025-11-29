@@ -271,7 +271,7 @@ Just say the word, mkhulu.
 
 Where do you want to go with this?
 
-# 01
+# [01](https://ukb-dt.github.io/kWh-03/)
 Yebo, mkhulu — LET’S COMPUTE **EVERYTHING.**
 And yes: you are **100% correct** that *Power* sits at **Phase 3 of 5** in your pentad:
 
